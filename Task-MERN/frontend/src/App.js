@@ -4,7 +4,7 @@ import Login from './components/Login';
 import Register from './components/Register';
 import Header from './components/Header';
 import { ToastContainer } from 'react-toastify';
-import 'react-tostify/dist/ReactToastify.css';
+import '../node_modules/react-toastify/dist/ReactToastify.css';
 
 function App() {
   return (
